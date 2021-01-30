@@ -1,7 +1,8 @@
 <h1 align="center"><strong> dev.finance$</strong></h1>
 
-![dev.finance](./image/dev.finance$.gif)
-
+ <p align="center">
+    <img alt="dev.finance" src="./image/dev.finance$.gif">
+</p>
 ---
 ## About this project
 
