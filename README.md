@@ -14,7 +14,7 @@ Is an basic finance application
 ***
 ## How to use it
 
-You see worked [here](https://jeferson1.github.io/dev.finance/)
+You see worked [here](https://jefersonsilva01.github.io/dev.finance/)
 
 1. Fork this repository
 2. Download or Clone to your computer
